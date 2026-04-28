@@ -1,7 +1,7 @@
 import DemandeAide from "../models/DemandeAide.js";
 import Don from "../models/Don.js";
 import Projet from "../models/Projet.js";
-import User from "../models/user.js";
+import User from "../models/User.js";
 
 // 🔹 CREATE DON
 export const createDon = async (data) => {

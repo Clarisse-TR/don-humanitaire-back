@@ -1,6 +1,6 @@
 import DemandeAide from "../models/DemandeAide.js";
 import PieceJustificative from "../models/PieceJustificative.js";
-import User from "../models/user.js";
+import User from "../models/User.js";
 import sequelize from "../config/database.js";
 import Projet from "../models/Projet.js";
 
